@@ -1,7 +1,5 @@
 import {
-  people01,
-  people02,
-  people03,
+
   facebook,
   instagram,
   linkedin,
@@ -24,13 +22,13 @@ export const navLinks = [
     id: "features",
     title: "Features",
   },
+  // {
+  //   id: "product",
+  //   title: "More",
+  // },
   {
-    id: "product",
+    id: "more",
     title: "More",
-  },
-  {
-    id: "clients",
-    title: "Clients",
   },
 ];
 
