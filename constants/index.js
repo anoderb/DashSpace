@@ -60,7 +60,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Decentralized Exchage",
+      "Decentralized Exchange",
     name: "Swap token and collectible.",
     title: "Cooming soon",
     
